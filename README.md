@@ -1,5 +1,5 @@
 # Practica-Nasa
-La idea de esta práctica es leer los datos de ... y realizar las siguientes consultas:
+La idea de esta práctica es leer los datos , seguir los pasos propuestos en el documento y realizar las siguientes consultas:
 
 - ¿Cuáles son los distintos protocolos web utilizados? Agrúpalos.
 - ¿Cuáles son los códigos de estado más comunes en la web? Agrúpalos y ordénalos 
